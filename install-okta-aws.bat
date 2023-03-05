@@ -1,0 +1,2 @@
+java -version
+rem powershell "IEX(New-Object Net.WebClient).downloadString('https://raw.githubusercontent.com/oktadev/okta-aws-cli-assume-role/master/bin/Install-OktaAwsCli.ps1');Invoke-BypassUAC -Command 'start Install-OktaAwsCli.ps1'"
